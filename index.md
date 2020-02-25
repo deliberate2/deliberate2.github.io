@@ -1,7 +1,6 @@
 ---
-name:home
+name: home
 ---
-# just test my new page
-- I love Xing yao
+# Welcome to my homepage！
+### Here is some of my [github](https://github.com/deliberate2) projects.
 ---------
-what's title ? {{ page.name }}
